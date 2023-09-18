@@ -1,0 +1,26 @@
+[
+    {
+        "id": "preferences",
+        "children": [
+            {
+                "id": "package-settings",
+                "children": [
+                    {
+                        "caption": "CopyPath",
+                        "children": [
+                            {
+                              "caption": "Copy path: Copy filename to clipboard",
+                              "command": "filename_to_clipboard_command"
+                            },
+                            {
+                              "caption": "Copy path: Copy path to clipboard",
+                              "command": "path_to_clipboard_command"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+]

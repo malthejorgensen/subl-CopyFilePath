@@ -1,0 +1,10 @@
+[
+  {
+    "caption": "Copy path: Copy filename to clipboard",
+    "command": "filename_to_clipboard"
+  },
+  {
+    "caption": "Copy path: Copy path to clipboard",
+    "command": "path_to_clipboard"
+  }
+]
